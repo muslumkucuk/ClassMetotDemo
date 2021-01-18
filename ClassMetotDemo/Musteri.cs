@@ -4,12 +4,11 @@ using System.Text;
 
 namespace ClassMetotDemo
 {
-    class Musteri
+    public class Musteri
     {
-        public int TCKN { get; set; }
+        public int Tckn { get; set; }
         public string Ad { get; set; }
         public string Soyad { get; set; }
-
 
     }
 }
