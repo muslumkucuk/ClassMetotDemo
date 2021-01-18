@@ -8,7 +8,7 @@ namespace ClassMetotDemo
         {
             Musteri[] musteri = new Musteri[] { };
             MusteriManager musteriManager = new MusteriManager();
-            musteriManager.MusteriEkle("Müslüm" , "Küçük" , 123231);
+            musteriManager.MusteriEkle("Müslüm" , "Küçük" , 123231); 
         }
     }
 }

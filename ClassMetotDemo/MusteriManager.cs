@@ -13,7 +13,7 @@ namespace ClassMetotDemo
         }
 
     }
-        public void MusteriSil(Musteri musteri)
+        public void MusteriSil(Musteri musteri) 
         {
             Console.WriteLine("Belirttiğiniz Tckn,Ad ve Soyad'ı taşıyan müşteri sistemden başarıyla silinmiştir.");
             Console.WriteLine("---------------------------------------------------------------------------------");
